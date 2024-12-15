@@ -1,0 +1,2 @@
+Wymagania projektu
+Dominik Bochenek
